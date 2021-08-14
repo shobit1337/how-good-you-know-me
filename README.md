@@ -4,7 +4,7 @@ This is a very fun and basic CLI project, It gives you a set of question which y
 
 🔗Live Link🔗 [How good you know me ?](https://replit.com/@shobit1337/How-well-you-know-me-App?embed=1&output=1)
 
-> Note: This project was build by me from scratch. It is markOne project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markOne project for the admission process in neogcamp by Tanay Pratap more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
